@@ -1,0 +1,21 @@
+ID Cliente: 1
+Nome: Ana Julia
+Telefone: 23133213213
+CPF: 23123131
+ID do Veículo: 2
+Data: 232131
+--------------------
+ID Cliente: 2
+Nome: Kayque
+Telefone: 213213131
+CPF: 12321321
+ID do Veículo: 1
+Data: 2131231
+--------------------
+ID Cliente: 3
+Nome: Igor
+Telefone: (19)99420-4798
+CPF: 491.***.***.**
+ID do Veículo: 2
+Data: 01/12/2024
+--------------------
